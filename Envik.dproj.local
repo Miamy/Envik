@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.239,C:\Users\Vadim\Documents\RAD Studio\Projects\Unit8.pas=E:\Programs\Envik\UMain.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.929,C:\Users\Vadim\Documents\RAD Studio\Projects\Project8.dproj=E:\Programs\Envik\Envik.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.577,=C:\Users\Vadim\Documents\RAD Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.239,C:\Users\Vadim\Documents\RAD Studio\Projects\Unit8.dfm=E:\Programs\Envik\UMain.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.022,=C:\Users\Vadim\Documents\RAD Studio\Projects\Unit8.pas</Transaction>
+  </Transactions>
+</BorlandProject>
